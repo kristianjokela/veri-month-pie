@@ -8,7 +8,7 @@ function App() {
       <div className='header'>
         <p>Tap month name to add a new goal, <br/>
           drag & drop to reorganize your goals.</p>
-          <p>Make names short and to the point, <br/>so you'll remember them without the app too😎</p>
+          <p>Make goals short and to the point, <br/>so you'll remember them without the app too😎</p>
       </div>
       <div className='content'>
         <img src={pie} alt="pie" />
