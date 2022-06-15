@@ -34,6 +34,7 @@ function Main() {
         items.push(
           <GoalItem
             index={i}
+            key={i}
             totalItems={state.goals.length}
             goal={state.goals[i]}
             isEditing={state.editing === i}

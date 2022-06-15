@@ -66,7 +66,6 @@ function GoalItem(props: GoalItemProps) {
     <li
       draggable={true}
       className="goal"
-      key={props.index}
       style={{ position: 'absolute', left: `${x}px`, top: `${y}px` }}
       onDragStart={(e) => {
         e.dataTransfer.setData('text/plain', props.index.toString())
