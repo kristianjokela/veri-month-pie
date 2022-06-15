@@ -1,0 +1,44 @@
+      <svg
+        width="384"
+        height="384"
+        viewBox="0 0 384 384"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <mask
+          id="mask0_3_10"
+          style="mask-type:alpha"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          width="384"
+          height="384">
+          <circle cx="192" cy="192" r="192" fill="#D9D9D9" />
+        </mask>
+        <g mask="url(#mask0_3_10)">
+          <rect x="-42" y="-42" width="234" height="234" fill="#74A8D9" />
+          <rect x="192" y="-42" width="234" height="234" fill="#8EDFF1" />
+          <path d="M415 66L327 -31L189.699 191L415 66Z" fill="#8EEBF1" />
+          <path d="M189.699 -51L327 -31L189.699 191V-51Z" fill="#8EDFF1" />
+          <path d="M415 66L425 191H189.699L415 66Z" fill="#8EF1EB" />
+          <path
+            d="M-33.3013 67L54.6987 -30L192 192L-33.3013 67Z"
+            fill="#DAC5AC"
+          />
+          <path d="M192 -50L54.6987 -30L192 192V-50Z" fill="#F4AFA0" />
+          <path d="M-33.3013 67L-43.3013 192H192L-33.3013 67Z" fill="#F1C98E" />
+          <rect x="-42" y="192" width="234" height="234" fill="#CFE930" />
+          <rect x="192" y="192" width="234" height="234" fill="#A6D974" />
+          <path d="M415 314L327 411L189.699 189L415 314Z" fill="#8EF192" />
+          <path d="M189.699 431L327 411L189.699 189V431Z" fill="#AEF18E" />
+          <path d="M415 314L425 189H189.699L415 314Z" fill="#8EF1D3" />
+          <path
+            d="M-33.3013 317L54.6987 414L192 192L-33.3013 317Z"
+            fill="#F1E78E"
+          />
+          <path d="M192 434L54.6987 414L192 192V434Z" fill="#D7F18E" />
+          <path
+            d="M-33.3013 317L-43.3013 192H192L-33.3013 317Z"
+            fill="#F1D58E"
+          />
+        </g>
+      </svg>
