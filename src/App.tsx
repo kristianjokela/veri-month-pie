@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='header'>
-        <p>Tap month to add a new goal, <br/>
+        <p>Tap month name to add a new goal, <br/>
           drag & drop to reorganize your goals.</p>
           <p>Make names short and to the point, <br/>so you'll remember them without the app too😎</p>
       </div>
