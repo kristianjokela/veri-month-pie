@@ -17,6 +17,11 @@ input {
   padding: 8px;
 }
 
+.month-name:hover {
+  background-color: #fff;
+  border: 1px solid #999;
+}
+
 .month-value .label {
   background: #F7F2C9;
   border-radius: 8px;
