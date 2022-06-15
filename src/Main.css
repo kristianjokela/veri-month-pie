@@ -1,11 +1,4 @@
 
-.content {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .item-list {
   position: relative;
   display: flex;
